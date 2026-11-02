@@ -1,0 +1,10 @@
+node_modules/
+.env.groq
+.env
+.DS_Store
+*.log
+photos/*.psd
+photos/*.ai
+fix-html.py
+inspect-html.py
+ai_snippet.txt
